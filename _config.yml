@@ -1,0 +1,10 @@
+# Site settings
+title: Lowwkey Media
+email: jmessina@albany.edu
+description: music site 
+url: http://jmessina1121.github.io/lowkeymedia
+github_username: jmessina1121
+
+# Build settings
+markdown: kramdown
+permalink: pretty
